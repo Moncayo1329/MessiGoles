@@ -1,0 +1,40 @@
+ [
+        
+        {
+        "rival":"getafe",
+        "año" : 2007,
+        "competición" : "Copa del Rey",
+        "link" : "prueba"
+
+        }
+        
+    ,    
+
+    {
+        "rival":"real madrid",
+        "año" : 2008,
+        "competición" : "Copa del Rey"
+
+    }
+    ,
+
+    {
+
+        "rival":"sevilla",
+        "año" : 2010,
+        "competición" : "Copa del Rey"
+
+    },
+
+    {
+
+        "rival":"valencia",
+        "año" : 2012,
+        "competición" : "Copa del Rey"
+
+    }
+    ]   
+
+
+
+
